@@ -1,0 +1,13 @@
+### Repo-specific
+/.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+### OS
+.DS_Store
