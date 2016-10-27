@@ -1,0 +1,11 @@
+{
+  "name": "@versionone/eslint-config",
+  "version": "0.0.1",
+  "description": "Strict lint rules used by VersionOne.",
+  "keywords": ["versionone", "lint rules"],
+  "author": "Andrew Smith <andrew@andrew.codes>",
+  "license": "MIT",
+  "peerDependencies":{
+    "eslint": ">=3"
+  }
+}
